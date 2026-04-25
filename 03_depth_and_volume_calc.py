@@ -16,7 +16,7 @@ from rasterio.warp import reproject, Resampling, calculate_default_transform
 # CONFIGURATION
 # ==============================================================================
 # 1. Primary Inputs
-DEM_PATH        = "data/Dem_Carto.tif"        # High-res Digital Elevation Model
+DEM_PATH        = "data/Dem.tif"        # High-res Digital Elevation Model
 FLOOD_PIXEL_RAW = "data/Flood_Pixel.tif"     # Binary flood mask from SAR (Step 01)
 IMPERVIOUS_MAP  = "data/Impervious.tif"      # Binary LULC map (Step 02)
 
