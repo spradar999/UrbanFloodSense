@@ -5,7 +5,7 @@ This repository contains a comprehensive geospatial pipeline for analyzing urban
 ## 📁 Project Structure
 
 *   **`01_sar_flood_detection.py`**: Google Earth Engine (GEE) script for SAR-based flood mapping using a change-detection approach.
-*   **`02_landcover_classification.py`**: Machine Learning pipeline (Random Forest) to distinguish between impervious and pervious surfaces.
+*   **`02_landcover_classification.py`**: Machine Learning pipeline to distinguish between impervious and pervious surfaces.
 *   **`03_depth_and_volume_calc.py`**: Integrated analysis to calculate flood depth and water volume across different urban landcover types.
 
 ---
