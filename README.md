@@ -1,6 +1,6 @@
 ## A scalable workflow for urban flood quantification: Fusing Sentinel-1 SAR, PlanetScope imagery, and elevation models
  
-This repository contains a comprehensive geospatial pipeline for analyzing urban flooding in Bengaluru, India. The project integrates multi-source satellite data (Sentinel-1 SAR, PlanetScope) and elevation models to detect flooded areas, classify urban landcover, and estimate flood depth and volume.
+This repository contains a comprehensive geospatial pipeline for analyzing urban flooding. The project integrates multi-source satellite data (Sentinel-1 SAR, PlanetScope) and elevation models to detect flooded areas, classify urban landcover, and estimate flood depth and volume. 
 
 ## 📁 Project Structure
 
